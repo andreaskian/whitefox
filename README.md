@@ -1,8 +1,8 @@
-# Whitefox
+# Whitefox 🦊
 
 This is my configration for [Matt3o's Whitefox keyboard](https://input.club/whitefox) (True Fox layout)
 
-![Screenshot of config](https://raw.githubusercontent.com/andreaskian/whitefox/master/assets/configuration.png)
+![Screenshot](https://raw.githubusercontent.com/andreaskian/whitefox/master/assets/config.png)
 
 ## Changelog
 
